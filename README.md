@@ -10,8 +10,9 @@
 ## Simple Inventory
 <h4>How to run using Docker Toolbox</h4>
 Download Docker Toolbox from this site: https://github.com/docker/toolbox/releases
+<br>
 Docker Toolbox is using IP: 192.168.99.100
-
+<br/>
 1. Create a directory for the simple inventory.
 2. Pull the latest laradock using "git clone https://github.com/Laradock/laradock.git" inside the directory you have created.
 3. Open a terminal and navigate inside the laradock directory
